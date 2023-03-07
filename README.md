@@ -1,6 +1,6 @@
 # ckids_fred_morstatter
 
-1. Open a terminal, and install jupyter-lab.
+1. Open a terminal, and install jupyter-lab using the "pip install jupyterlab" command.
 2. Go to the project directory.
 3. Run the command "jupyter-lab"
 
