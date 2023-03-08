@@ -3,15 +3,19 @@ Installation
 1. Install conda.  "conda -V" prints the version of conda if you have it installed.
 2. Install Python.  "python -V" prints the version of conda if you have it installed.
 
+
 Setup
 1. Open a terminal and navigate to the folder containing the files
 2. If your conda is outdated, run "conda update conda" and "conda update anaconda"
 3. Install a virtual environment (in order to avoid module clashes) by running "conda create -n myenv"
 4. Activate the virtual environment with "conda activate myenv"
 5. Install Jupyter Notebook with "pip install notebook"
-6. Install BERTopic with "pip install bertopic"
-7. Start Jupyter Notebook with "jupyter notebook"
-8. After you're done working, exit Jupyter Notebook with ctrl+c, and deactivate the virtual environment with "conda deactivate"
+6. Run "pip install numpy"
+7. Run "pip install pandas"
+8. Run "pip install matplotlib"
+9. Install BERTopic with "pip install bertopic"
+10. Start Jupyter Notebook with "jupyter notebook"
+11. After you're done working, exit Jupyter Notebook with ctrl+c, and deactivate the virtual environment with "conda deactivate"
 
 Troubleshooting
 1. If your computer has python3 and pip3 instead of python and pip, use python3 and pip3 (ex. "python3 -V" or "pip3 install notebook")
