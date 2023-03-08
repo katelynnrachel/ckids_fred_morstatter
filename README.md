@@ -14,9 +14,10 @@ Setup
 8. After you're done working, exit Jupyter Notebook with ctrl+c, and deactivate the virtual environment with "conda deactivate"
 
 Troubleshooting
-1. Make sure data.zip is unzipped
-2. It is normal for some directories to be empty (means the person had no tweets about them)
-3. The commands above are for Macs, and may not work for Windows
+1. If your computer has python3 and pip3 instead of python and pip, use python3 and pip3 (ex. "python3 -V" or "pip3 install notebook")
+2. Make sure data.zip is unzipped
+3. It is normal for some directories to be empty (means the person had no tweets about them)
+4. The commands above are for Macs, and may not work for Windows
 
 Notes on false positives:
 https://docs.google.com/document/d/1BehM1QP6t1GnvGrIsZwk2aThciWTu1pST1QDctO2sE8/edit
