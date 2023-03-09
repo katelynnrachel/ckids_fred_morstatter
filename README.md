@@ -21,5 +21,8 @@ Troubleshooting
 3. It is normal for some directories to be empty (means the person had no tweets about them)
 4. The commands above are for Macs, and may not work for Windows
 
+Google Colab
+An alternative to Jupyter Notebook is Google Colab, which does not require any environment configurations.  So if you have trouble getting code to work on Jupyter Notebook, try Google Colab.
+
 Notes on false positives:
 https://docs.google.com/document/d/1BehM1QP6t1GnvGrIsZwk2aThciWTu1pST1QDctO2sE8/edit
