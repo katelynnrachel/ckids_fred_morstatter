@@ -10,7 +10,7 @@ Setup
 4. Activate the virtual environment with "conda activate myenv"
 5. Upon trying to install BERTopic with newer versions of python, you will get an incompatibility error because torch is incompatible with newer versions of python; so I used python version 3.9.  Use "conda install python=3.9" to switch the python version within the virtual environment.
 6. Install Jupyter Notebook with "pip install notebook"
-7. Install numpy, pandas, and matplotlib with "pip install numpy pandas matplotlib"
+7. Install numpy, pandas, matplotlib, and ipywidgets with "pip install numpy pandas matplotlib ipywidgets"
 9. Install BERTopic with "pip install bertopic"
 10. Start Jupyter Notebook with "jupyter notebook"
 11. After you're done working, exit Jupyter Notebook with ctrl+c, and deactivate the virtual environment with "conda deactivate"
