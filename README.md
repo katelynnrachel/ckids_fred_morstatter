@@ -26,3 +26,15 @@ An alternative to Jupyter Notebook is Google Colab, which does not require any e
 
 Notes on false positives:
 https://docs.google.com/document/d/1BehM1QP6t1GnvGrIsZwk2aThciWTu1pST1QDctO2sE8/edit
+
+Resources I used:
+1. Official Github documentation of BERTopic
+https://github.com/MaartenGr/BERTopic/
+2. Semantic Search
+https://www.sbert.net/examples/applications/semantic-search/README.html
+3. Guide on "Analysis using BERTopic and Sentence Transformer"
+https://www.kaggle.com/code/accountstatus/analysis-using-bertopic-and-sentence-transformer/notebook
+4. Guide on "Basic Tweet Preprocessing in Python"
+https://towardsdatascience.com/basic-tweet-preprocessing-in-python-efd8360d529e
+
+
